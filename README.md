@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-CS/CE Student
-Former Software Lead: FTC Team 19516
-Currently working on: NASA 2023 App Dev. Challenge!
+CS/CE Student <br>
+Former Software Lead: FTC Team 19516 <br>
+Currently working on: NASA 2023 App Dev. Challenge! <br>
 
 ### 📈My Stats
 
