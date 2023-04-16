@@ -2,7 +2,9 @@
 
 CS/CE Student <br>
 Former Software Lead: FTC Team 19516 <br>
-Currently working on: NASA 2023 App Dev. Challenge! <br>
+Developer for National Top Team: [2022/23 NASA App Development Challenge](https://www.nasa.gov/feature/artemis-generation-coders-earn-invite-to-johnson-space-center/)
+<br> 
+Currently Working On: NASA/JAXA KRPC <br> 
 
 ### 📈My Stats
 
