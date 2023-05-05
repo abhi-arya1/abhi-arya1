@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-CS/CE Student <br>
+CSE Student <br>
+Discord: <b>@arctic#2172</b><br><br>
 Former Software Lead: FTC Team 19516 <br>
 Developer for National Top Team: [2022/23 NASA App Development Challenge](https://www.nasa.gov/feature/artemis-generation-coders-earn-invite-to-johnson-space-center/)
 <br> 
-Currently Working On: NASA/JAXA KRPC <br> 
+<i>Currently Working On:</i> NASA/JAXA KRPC <br> 
+<i>Currently Learning:</i> Neural Networks and Evolutionary Algorithms, GoLang, C, and more! 
 
 ### 📈My Stats
 
