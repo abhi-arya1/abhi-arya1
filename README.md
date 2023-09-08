@@ -7,13 +7,15 @@
 
 <h2>About Me</h2>
 First-Year CSE Student<br>
+<!--
 <i>Currently Working On:</i> Quantitative and Sentiment Analysis, Web Development with MongoDB, Firebase, and NodeJS<br>
-<i>Currently Learning:</i> Evolutionary Algorithms, OpenCV, OpenAI, Databases, and Full-Stack development.<br><br>
+<i>Currently Learning:</i> Evolutionary Algorithms, OpenCV, OpenAI, Databases, and Full-Stack development.<br><br>-->
 <i>Formerly:</i><br>
 Software Lead: FTC Team 19516 <br>
 Lead Developer for the 2023 <a href="https://github.com/abhi-arya1/Kibo-RPC">NASA/JAXA Kibo Robot Programming Challenge</a><br>
 Developer for National Top Team: <a href="https://github.com/abhi-arya1/cartographerADC23">2022/23 NASA App Development Challenge</a>
 <h2></h2><h2>Github Stats</h2>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhi-arya1&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-arya1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
