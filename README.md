@@ -12,7 +12,7 @@ First-Year CSE Student<br>
 <i>Currently Learning:</i> Evolutionary Algorithms, OpenCV, OpenAI, Databases, and Full-Stack development.<br><br>-->
 <i>Formerly:</i><br>
 Software Lead: FTC Team 19516 <br>
-Lead Developer for the 2023 <a href="https://github.com/abhi-arya1/Kibo-RPC">NASA/JAXA Kibo Robot Programming Challenge</a><br>
+Lead Developer for National Top 3 Team: <a href="https://github.com/abhi-arya1/Kibo-RPC">2023 NASA/JAXA Kibo Robot Programming Challenge</a><br>
 Developer for National Top Team: <a href="https://github.com/abhi-arya1/cartographerADC23">2022/23 NASA App Development Challenge</a>
 <h2></h2><h2>Github Stats</h2>
 
