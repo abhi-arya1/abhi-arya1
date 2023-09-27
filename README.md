@@ -7,6 +7,7 @@
 
 <h2>About Me</h2>
 First-Year CSE Student<br>
+Currently Working On: <a href="https://github.com/Turfader/Team-Cartographer-Space-Apps-Challenge-2023">2023 NASA Space Apps Challenge</a>
 <!--
 <i>Currently Working On:</i> Quantitative and Sentiment Analysis, Web Development with MongoDB, Firebase, and NodeJS<br>
 <i>Currently Learning:</i> Evolutionary Algorithms, OpenCV, OpenAI, Databases, and Full-Stack development.<br><br>-->
