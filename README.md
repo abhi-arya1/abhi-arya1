@@ -8,7 +8,7 @@
 <h2>About Me</h2>
 First-Year CSE Student<br>
 Avionics Embedded Software Engineer at <a href="https://projects.eng.uci.edu/projects/2022-2023/uci-cubesat">UCI CubeSat</a><br>
-Developer and Exec: <a href="https://github.com/Team-Cartographer">Team Cartographer</a><br>
+Co-Founder, Project Manager, and Developer: <a href="https://github.com/Team-Cartographer">Team Cartographer</a><br>
 Currently Working On: <a href="https://github.com/Turfader/Team-Cartographer-Space-Apps-Challenge-2023">2023 NASA Space Apps Challenge</a><br><br>
 <!--
 <i>Currently Working On:</i> Quantitative and Sentiment Analysis, Web Development with MongoDB, Firebase, and NodeJS<br>
