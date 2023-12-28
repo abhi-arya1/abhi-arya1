@@ -1,14 +1,15 @@
-<h1 align="center">Hi, I'm Abhi👋</h1>
+<h1 align="center">Hi, I'm <a href="https://abhi-arya1.vercel.app">Abhi</a>👋</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=abhi-arya1&label=Profile%20views&color=0cab29&style=flat" alt="abhi-arya1" /> 
 <a href=""><img src="https://img.shields.io/badge/discord-@abh1a-7289da" alt="discord"></a>
 <a href="https://www.linkedin.com/in/abhiaarya/"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="linkedin"></a>
-<a href="mailto:abhigyaa@uci.edu"><img src="https://img.shields.io/badge/email-abhigyaa (AT) uci.edu-aa18c4" alt="email"></a>
+<a href="https://abhi-arya1.vercel.app"><img src="https://img.shields.io/badge/Website-aa18c4" alt="email"></a>
 </p>
 
 <h2>About Me</h2>
 First-Year CSE Student<br>
 Avionics Embedded Software Engineer at <a href="https://projects.eng.uci.edu/projects/2022-2023/uci-cubesat">UCI CubeSat</a><br>
-Co-Founder, Lead Project Manager, and Lead Developer: <a href="https://github.com/Team-Cartographer">Team Cartographer</a><br><br>
+Co-Founder, Lead Project Manager, and Lead Developer: <a href="https://github.com/Team-Cartographer">Team Cartographer</a><br>
+Check out my website here: <i><a href="https://abhi-arya1.vercel.app">abhi-arya1.vercel.app</a></i><br><br>
 
 <!--
 <i>Currently Working On:</i> Quantitative and Sentiment Analysis, Web Development with MongoDB, Firebase, and NodeJS<br>
