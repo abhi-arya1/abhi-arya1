@@ -10,8 +10,4 @@
 
 [ :phone: ] You can contact me via `abhigyaa@uci.edu`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/abhi-arya1/abhi-arya1/blob/output/github-contribution-grid-snake.svg)
