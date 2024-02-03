@@ -4,7 +4,7 @@
 
 [ :wave: ] Hi, I'm Abhi, a 1st year student majoring in Computer Science and Engineering @ UC Irvine
 
-[ :rocket: ] I'm also an SWE Intern @ NASA JSC, Avionics SDE at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and contributor to [Atomic](https://www.atomic.dev/), as well as a co-founder of [Team Cartographer](https://github.com/team-cartographer)
+[ :rocket: ] I'm also an SWE Intern @ NASA JSC, Avionics SDE at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and contributor to [Atomic](https://www.atomic.dev/) and [Team Cartographer](https://github.com/team-cartographer)
 
 [ :books: ] I'm an avid learner and explorer, and love a good challenge. Most recently, I won IrvineHacks 2024 with [ZotConnect](https://devpost.com/software/zotconnect-g6jhme).
 
