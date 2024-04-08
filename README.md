@@ -1,12 +1,12 @@
-## hello world
+## hello, world
 
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhiarya.net) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiaarya/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigyaa@uci.edu) [![image](https://img.shields.io/badge/GitHub-363636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi-arya1) [![image](https://img.shields.io/badge/Devpost-123499?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/abhi-arya1)
 
 [ :wave: ] Hi, I'm Abhi, a 1st year student majoring in Computer Science and Engineering @ UC Irvine
 
-[ :rocket: ] I'm also an SWE Intern @ NASA JSC, Avionics SDE at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and contributor to [Atomic](https://www.atomic.dev/) and [Team Cartographer](https://github.com/team-cartographer)
+[ :rocket: ] I'm also an SWE Intern @ NASA JSC, Avionics Lead at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and develop for [Team Cartographer](https://github.com/team-cartographer)
 
-[ :books: ] I'm an avid learner and explorer, and love a good challenge. Most recently, I won IrvineHacks 2024 with [ZotConnect](https://devpost.com/software/zotconnect-g6jhme).
+[ :books: ] I'm an avid learner and explorer, and love a good challenge. I'm also a 2x Hackathon Winner! ([Devpost](https://devpost.com/software/zotconnect-g6jhme))
 
 [ :phone: ] You can contact me via `abhigyaa@uci.edu`
 
