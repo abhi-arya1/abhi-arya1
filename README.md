@@ -6,7 +6,7 @@
 
 [ :rocket: ] I'm also an SWE Intern @ NASA JSC, Avionics Lead at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and develop for [Team Cartographer](https://github.com/team-cartographer)
 
-[ :books: ] I'm an avid learner and explorer, and love a good challenge. I'm also a 2x Hackathon Winner! ([Devpost](https://devpost.com/software/zotconnect-g6jhme))
+[ :books: ] I'm an avid learner and explorer, and love a good challenge. I'm also a 3x Hackathon Winner! ([Devpost](https://devpost.com/abhi-arya1)
 
 [ :phone: ] You can contact me via `abhigyaa@uci.edu`
 
