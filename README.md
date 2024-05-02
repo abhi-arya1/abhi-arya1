@@ -4,11 +4,11 @@
 
 [ :wave: ] Hi, I'm Abhi, a 1st year student majoring in Computer Science and Engineering @ UC Irvine
 
-[ :rocket: ] I'm also an SWE Intern @ NASA JSC, Avionics Lead at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and develop for [Team Cartographer](https://github.com/team-cartographer)
+[ :rocket: ] I'm also an Pathways Intern @ NASA, Avionics Lead at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and develop for [Team Cartographer](https://github.com/team-cartographer)
 
 [ :books: ] I'm an avid learner and explorer, and love a good challenge. I'm also a 3x Hackathon Winner! ([Devpost](https://devpost.com/abhi-arya1))
 
-[ :phone: ] You can contact me via `abhigyaa@uci.edu`
+[ :phone: ] You can contact me via `abhigyaa[at]uci.edu`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake-dark.svg">
