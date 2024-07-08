@@ -4,7 +4,7 @@
 
 [ :wave: ] Hi, I'm Abhi, a Computer Science and Engineering Student @ UC Irvine
 
-[ :rocket: ] I'm also an Pathways Engineering Intern @ NASA, Avionics Lead at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and develop for [Team Cartographer](https://github.com/team-cartographer)
+[ :rocket: ] I'm also an Pathways Engineering Intern @ NASA, Avionics Lead at [UCI CubeSat](https://projects.eng.uci.edu/projects/2023-2024/uci-cubesat), and lead AI infra for [Opennote](https://opennote.me)
 
 [ :books: ] I'm an avid learner and explorer, and love a good challenge. I'm also a 3x Hackathon Winner! ([Devpost](https://devpost.com/abhi-arya1))
 
