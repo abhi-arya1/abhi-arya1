@@ -9,9 +9,6 @@
 	"previously_at": [
 		"Browserbase <browserbase.com>",
 		"NASA <nasa.gov>"
-	],
-	"hackathon_wins": [
-		"HackMIT", "LAHacks", "SFHacks", "IrvineHacks"
 	]
 }
 ```
