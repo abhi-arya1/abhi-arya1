@@ -1,17 +1,8 @@
-# `Hello World`
+`print("hello world")`
 
-```json
-{
-	"name": "Abhi Arya",
-	"contact": "abhi[at]opennote.me",
-	"education": "2nd Year CSE+Math Student at UC Irvine <uci.edu>"
-	"role": "Co-Founder at Opennote <opennote.com>",
-	"previously_at": [
-		"Browserbase <browserbase.com>",
-		"NASA <nasa.gov>"
-	]
-}
-```
+- Software engineer interested in Backend Software, AI Systems and Model Development, Real-Time Infrastructure, Autonomous Systems, and Human Experience with AI (and also coffee)
+- I'm on leave from the University of California, Irvine, where I was pursing Computer Science, Engineering, and Mathematics. I'm currently building Opennote, redesigning how students interface with AI.
+- More at <a href="https://abhi-arya1.github.io">abhi-arya1.github.io</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake-dark.svg">
