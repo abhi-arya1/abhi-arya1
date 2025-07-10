@@ -5,9 +5,7 @@
 - More at <a href="https://abhi-arya1.github.io">abhi-arya1.github.io</a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sabhi-arya1/abhi-arya1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://thelordofporn.com/wp-content/uploads/2017/10/Your-Mom-Loves-Anal-768x512.jpg">
 </picture>
 
 > My current pinned repositories represent a series of archived projects from 2024 and before. I currently largely work in many closed-source repositories for https://opennote.com, go check it out! 
