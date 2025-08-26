@@ -1,7 +1,7 @@
 `print("hello world")`
 
 - Software engineer interested in Backend Software, AI Systems and Model Development, Real-Time Infrastructure, Autonomous Systems, and Human Experience with AI (and also coffee)
-- I'm on leave from the University of California, Irvine, where I was pursing Computer Science, Engineering, and Mathematics. I'm currently building Opennote, redesigning how students interface with AI.
+- I'm a student at the University of California, Irvine, where I'm pursing Computer Science, Engineering, and Mathematics. I'm currently building Opennote, redesigning how students interface with AI.
 - More at <a href="https://abhi-arya1.github.io">abhi-arya1.github.io</a>
 
 <picture>
