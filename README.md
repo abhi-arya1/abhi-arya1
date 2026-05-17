@@ -1,13 +1,11 @@
-`print("hello world")`
+hi, i'm abhi!
 
-- Software engineer interested in Backend Software, AI Systems and Model Development, Real-Time Infrastructure, Autonomous Systems, and Human Experience with AI (and also coffee)
-- I'm a student at the University of California, Irvine, where I'm pursing Computer Science, Engineering, and Mathematics. I'm currently building Opennote, redesigning how students interface with AI.
-- More at <a href="https://abhi-arya1.github.io">abhi-arya1.github.io</a>
+i work on product and software engineering at [reducto](https://reducto.ai)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi-arya1/abhi-arya1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sabhi-arya1/abhi-arya1/output/github-contribution-grid-snake.svg">
-</picture>
+before that, i founded [opennote](https://opennote.com) (acq. by reducto) and worked at [browserbase](https://browserbase.com) and [nasa](https://nasa.gov) 
 
-> My current pinned repositories represent a series of archived projects from 2024 and before. I currently largely work in many closed-source repositories for https://opennote.com, go check it out! 
+i currently work over on [@abhi-reducto](https://github.com/abhi-reducto), however i occasionally build side projects here!
+
+more on me over at <a href="https://abhi-arya1.github.io">abhi-arya1.github.io</a>
+
+> my current pinned repositories represent a series of archived projects and hacks from 2024 and before, built before most of my side projects turned into the tech behind opennote, though i hope to make more soon!
